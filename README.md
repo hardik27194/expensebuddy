@@ -1,4 +1,6 @@
-# ExpenseBuddy (Project Name: ExpenseLog)
+# ExpenseBuddy
+
+![Screenshot](ExpenseBuddy87x87.png)
 
 ## Goal
 iOS App for keeping track of expenses. Enter daily expenses, query expense categories, view year to date totals, export to spreadsheet.
