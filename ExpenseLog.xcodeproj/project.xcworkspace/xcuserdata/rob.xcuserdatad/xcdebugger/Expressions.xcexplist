@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[EditExpenseController textField:shouldChangeCharactersInRange:replacementString:]:EditExpenseController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "textField.text.length">
+            </PersistentString>
+            <PersistentString
+               value = "textField.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[EditExpenseController updateExpenseAmount]:EditExpenseController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.editedAmountStr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[EditExpenseController updateAmountTextField:]:EditExpenseController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.editedAmountStr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[UpgradeController tableView:cellForRowAtIndexPath:]:UpgradeController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "cell.buyBtn.tag">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[UpgradeController paymentQueue:updatedTransactions:]:UpgradeController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "trans.originalTransaction.payment.productIdentifier">
+            </PersistentString>
+            <PersistentString
+               value = "trans.transactionState">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[DateRangeSelectController tableView:cellForRowAtIndexPath:]:DateRangeSelectController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.endDate">
+            </PersistentString>
+            <PersistentString
+               value = "self.startDate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
